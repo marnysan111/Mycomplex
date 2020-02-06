@@ -1,0 +1,3 @@
+Myconplex: Myconplex.c
+
+	gcc -o Myconplex Myconplex.c
